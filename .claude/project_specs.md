@@ -1,4 +1,4 @@
-# Vela-PySDK — specs Remote: `git@github.com:SiliconCentric/Vela-PySDK.git`
+# Vela-PySDK — specs Remote: `git@github.com:soccentric-vela/Vela-PySDK.git`
 Stack: Python, uv-managed, src layout. Consumes the `HalService` gRPC endpoint exposed by Vela-Client — the same wire contract
 Vela-Server speaks. ## Layout * `vela-sdk/` — everything: source, tooling, docs, examples, the make workflow (setup/ gen/ check/ build).
 * `vela-sdk/src/vela_sdk/` — the package. Import name `vela_sdk`, distribution name `vela-sdk`.
