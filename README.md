@@ -10,6 +10,8 @@ Part of the `Vela` project in the `project-managers` fleet. See
 `docs/project-managers.md` for the full 9-project/ 8-leaf hierarchy and
 shared conventions.
 
+## Overview
+
 ## Project Summary
 
 Vela-PySDK packages the Python client used to call the Vela HAL service. The
